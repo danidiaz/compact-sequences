@@ -1,0 +1,3 @@
+signature Data.CompactSequence.Stack where
+
+
